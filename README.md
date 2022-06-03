@@ -1,5 +1,5 @@
-# flashdrive_wifi_connection
-use flashdrive to connect to wifi in linux/ubuntu. [useful for headless mode or some production use]
+# flashdrive_wifi_connection for Linux/Ubuntu
+use flashdrive to connect to wifi in linux/ubuntu. [useful for headless mode or some production use!!!]
 
 This is a small script which can be used to connect and forget all past WiFi networks using Pendrives.
 If WiFi network doesnot exist or pass/id is incorrect, the device keep it's connection to previous network.
