@@ -5,7 +5,12 @@ This is a small script which can be used to connect and forget all past WiFi net
 If WiFi network doesnot exist or pass/id is incorrect, the device keep it's connection to previous network.
 
 the format for pendrive or flashdrive WiFi ssid or pass is:Cancel changes
-ssid
-pass
+>ssid
+
+>pass
 
 save it in wifi.txt file.
+
+demo wifi.txt file is given.
+
+It is best to keep the script running in bootup.
