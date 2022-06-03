@@ -1,0 +1,2 @@
+this_is_my_ssid
+this_is_my_pswd
